@@ -29,7 +29,7 @@ elif temp < 25:
 else:
     print("Calor")    
 
-# NOTA: Puede existir mas de una clausula elfi pero solo una else
+# NOTA: Puede existir mas de una clausula elif pero solo una else
 
 # if <condicion1>:
     #codigo

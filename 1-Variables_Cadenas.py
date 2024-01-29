@@ -4,7 +4,7 @@
 # Variables:
  
 # Reglas para nombrar variables:
-# Los nombres de las variables deben empezar con una letra o con guin bajo.
+# Los nombres de las variables deben empezar con una letra o con guion bajo.
 # Los nombres de las variables no deben empezar con un número.
 # Solo deben contener caracteres alfanuméricos (A-Z,a-z,0-9,_)
 
@@ -21,8 +21,8 @@ num_vistas=124442
 
 # edad <> Edad <> EDAD
 
-# Cadeba de caracteres (String)
-# Secuencia de caracteres encerrados entre comillas y usados ara representar texto en el programa
+# Cadena de caracteres (String)
+# Secuencia de caracteres encerrados entre comillas y usados para representar texto en el programa
 
 cadena0='Python'
 cadena1="python"
@@ -32,7 +32,7 @@ cadena1="python"
 print(cadena0[0])
 print(cadena1[0])
 print(cadena0[2])
-# print(cadena0[6]) estes sería un indice fuera de rango
+# print(cadena0[6]) este sería un indice fuera de rango
 
 
 # Substraer tomar una parte de una cadena <cadena>[inicio:fin] el limite no inluye el caracter final
@@ -62,7 +62,7 @@ print(frase[7:12])
 print(cadena0[1:6:2])  # Y H N
 
 # 1 Indica donde inicia
-# 6 India donde finaliza
+# 6 Indica donde finaliza
 # 2 Indica los saltos que debe dar entre cada caracter
 
 # 0 1 2 3 4 5 6 7 8 9 10 11
